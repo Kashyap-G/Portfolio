@@ -1,4 +1,7 @@
 List of things to do , random ideas
 
-Focus in detail on the diffusion equation, especially its importance in financial mathematics.
-Implement at least the simplest cases in 1D, 2D and 3D.
+Simulate Arithmatic Brownian Motion
+Simulate Geometric Brownian Motion
+Simulate Ornstein Uhlenbeck Process
+In each case, study the role of Parameters and compare/constrast the results.
+Then, simulate an example to demonstrate Ito's Lemma.
