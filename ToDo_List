@@ -5,3 +5,5 @@ Simulate Geometric Brownian Motion
 Simulate Ornstein Uhlenbeck Process
 In each case, study the role of Parameters and compare/constrast the results.
 Then, simulate an example to demonstrate Ito's Lemma.
+Make a PDF for the derivation of the Black-Scholes model for Option-Pricing.
+Possible solution techniques for BS equation.
